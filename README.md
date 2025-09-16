@@ -1,6 +1,6 @@
 #aws-Lambda
 
-****Build a Serverless Crud Microservice  - (API Gateway + Lambda + DynamoDB + Python)****
+****Build a Serverless CRUD Microservice with API Gateway, Lambda, DynamoDB, and Python****
 
 
 This project implements an AWS Lambda function that serves a simple contact form page and processes form submissions using DynamoDB as the backend.
